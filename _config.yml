@@ -43,7 +43,7 @@ mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.
 
 #-------------------------------
 # Build settings
-markdown: kramdown
+markdown: dark
 permalink: ':title/'
 plugins:
   - jekyll-paginate
